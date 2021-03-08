@@ -1,0 +1,8 @@
+basicSelenium/BasicCreateProjectTest.java
+ basicSelenium.BasicCreateProjectTest
+basicSelenium/BasicTest.java
+ basicSelenium.BasicTest
+basicSelenium/BasicTodoLyTest.java
+ basicSelenium.BasicTodoLyTest
+basicSelenium/BasicDeleteProject.java
+ basicSelenium.BasicDeleteProject

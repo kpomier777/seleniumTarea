@@ -14,6 +14,12 @@ public class FactoryBrowser {
             case "edge":
                 browser=new Edge();
                 break;
+            case "cloud":
+                browser=new BrowserStack();
+                break;
+            case "cloudFireFox":
+                browser=new BrowserStackFireFox();
+                break;
             default:
                 browser=new Chrome();
                 break;

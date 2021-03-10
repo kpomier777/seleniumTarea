@@ -1,11 +1,11 @@
 controls/Label.java
  controls.Label
-singletonSession/Session.java
- singletonSession.Session
+pomPages/hjk.java
+ pomPages.hjk
 factoryBrowser/IBrowser.java
  factoryBrowser.IBrowser
-testClean/LoginTest.java
- testClean.LoginTest
+pomPages/todoly/LeftSection.java
+ pomPages.todoly.LeftSection
 factoryBrowser/Edge.java
  factoryBrowser.Edge
 pomPages/todoly/ProjectOptionsPage.java
@@ -22,16 +22,16 @@ pomPages/todoly/MenuSection.java
  pomPages.todoly.MenuSection
 basicSelenium/BasicTodoLyTest.java
  basicSelenium.BasicTodoLyTest
-factoryBrowser/FireFox.java
- factoryBrowser.FireFox
+factoryBrowser/BrowserStackFireFox.java
+ factoryBrowser.BrowserStackFireFox
 basicSelenium/BasicDeleteProject.java
  basicSelenium.BasicDeleteProject
 controls/CheckBox.java
  controls.CheckBox
-factoryBrowser/FactoryBrowser.java
- factoryBrowser.FactoryBrowser
-controls/Control.java
- controls.Control
+singletonSession/Session.java
+ singletonSession.Session
+testClean/CRUD.java
+ testClean.CRUD
 controls/Image.java
  controls.Image
 pomPages/todoly/CenterSection.java
@@ -42,9 +42,17 @@ controls/Button.java
  controls.Button
 factoryBrowser/Chrome.java
  factoryBrowser.Chrome
-pomPages/hjk.java
- pomPages.hjk
-pomPages/todoly/LeftSection.java
- pomPages.todoly.LeftSection
+factoryBrowser/BrowserStack.java
+ factoryBrowser.BrowserStack
+controls/Control.java
+ controls.Control
+testClean/TestBaseTodoLy.java
+ testClean.TestBaseTodoLy
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
 testClean/CreateProjectTest.java
  testClean.CreateProjectTest
+testClean/LoginTest.java
+ testClean.LoginTest
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox

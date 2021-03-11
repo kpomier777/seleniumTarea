@@ -1,19 +1,25 @@
 controls/Label.java
  controls.Label
-pomPages/hjk.java
- pomPages.hjk
+testClean/TestBaseTodoist.java
+ testClean.TestBaseTodoist
+testClean/ExamenEjercicio3y1.java
+ testClean.ExamenEjercicio3y1
+singletonSession/Session.java
+ singletonSession.Session
 factoryBrowser/IBrowser.java
  factoryBrowser.IBrowser
-pomPages/todoist/LoginModal.java
- pomPages.todoist.LoginModal
 factoryBrowser/Edge.java
  factoryBrowser.Edge
-testClean/CreateProjectTest.java
- testClean.CreateProjectTest
+factoryBrowser/BrowserStackFireFox.java
+ factoryBrowser.BrowserStackFireFox
+pomPages/todoly/ProjectOptionsPage.java
+ pomPages.todoly.ProjectOptionsPage
 controls/TextBox.java
  controls.TextBox
 basicSelenium/BasicTest.java
  basicSelenium.BasicTest
+pomPages/todoist/MainPage.java
+ pomPages.todoist.MainPage
 pomPages/todoly/LoginModal.java
  pomPages.todoly.LoginModal
 pomPages/todoly/MainPage.java
@@ -22,51 +28,39 @@ pomPages/todoly/MenuSection.java
  pomPages.todoly.MenuSection
 basicSelenium/BasicTodoLyTest.java
  basicSelenium.BasicTodoLyTest
-factoryBrowser/BrowserStackFireFox.java
- factoryBrowser.BrowserStackFireFox
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
 basicSelenium/BasicDeleteProject.java
  basicSelenium.BasicDeleteProject
 controls/CheckBox.java
  controls.CheckBox
+testClean/TestBaseTodoLy.java
+ testClean.TestBaseTodoLy
 factoryBrowser/FactoryBrowser.java
  factoryBrowser.FactoryBrowser
-testClean/CRUD.java
- testClean.CRUD
+pomPages/todoist/LoginModal.java
+ pomPages.todoist.LoginModal
 controls/Image.java
  controls.Image
-singletonSession/Session.java
- singletonSession.Session
+pomPages/todoly/CenterSection.java
+ pomPages.todoly.CenterSection
+pomPages/todoist/PrincipalPage.java
+ pomPages.todoist.PrincipalPage
 basicSelenium/BasicCreateProjectTest.java
  basicSelenium.BasicCreateProjectTest
 controls/Button.java
  controls.Button
-factoryBrowser/Chrome.java
- factoryBrowser.Chrome
-factoryBrowser/BrowserStack.java
- factoryBrowser.BrowserStack
-factoryBrowser/FireFox.java
- factoryBrowser.FireFox
-testClean/LoginTest.java
- testClean.LoginTest
-pomPages/todoist/PrincipalPage.java
- pomPages.todoist.PrincipalPage
 pomPages/todoist/MenuProfile.java
  pomPages.todoist.MenuProfile
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+pomPages/hjk.java
+ pomPages.hjk
 controls/Control.java
  controls.Control
-testClean/TestBaseTodoLy.java
- testClean.TestBaseTodoLy
-testClean/TestBaseTodoist.java
- testClean.TestBaseTodoist
-pomPages/todoly/LeftSection.java
- pomPages.todoly.LeftSection
-pomPages/todoly/CenterSection.java
- pomPages.todoly.CenterSection
-pomPages/todoly/ProjectOptionsPage.java
- pomPages.todoly.ProjectOptionsPage
 testClean/ExamenEjercicio2.java
  testClean.ExamenEjercicio2
-testClean/ExamenEjercicio3y1.java
- testClean.ExamenEjercicio3y1
-pomPages/todoist/MainPage.java
- pomPages.todoist.MainPage
+factoryBrowser/BrowserStack.java
+ factoryBrowser.BrowserStack
+pomPages/todoly/LeftSection.java
+ pomPages.todoly.LeftSection

@@ -25,6 +25,7 @@ public class ExamenEjercicio3y1 extends TestBaseTodoist{
         loginModal.pwdTextBox.set(pwd);
         loginModal.loginButton.click();
         principalPage.optionsprofile.click();
+
         Assert.assertTrue("ERROR, no se logueo",menuprofile.logoutButton.controlIsDisplayed());
     }
 }

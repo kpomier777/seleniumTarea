@@ -9,9 +9,10 @@ public class Session {
     private WebDriver driver;
 
     private Session(){
-        this.driver=FactoryBrowser.make("firefox").create();
+        //this.driver=FactoryBrowser.make("firefox").create();
         //Tarea firefox con Cloud y con driver
         //this.driver=FactoryBrowser.make("cloudFireFox").create();
+        this.driver=FactoryBrowser.make("chrome").create();
     }
 
     public static Session getSession(){

@@ -28,8 +28,8 @@ basicSelenium/BasicDeleteProject.java
  basicSelenium.BasicDeleteProject
 controls/CheckBox.java
  controls.CheckBox
-singletonSession/Session.java
- singletonSession.Session
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
 testClean/CRUD.java
  testClean.CRUD
 controls/Image.java
@@ -44,15 +44,27 @@ factoryBrowser/Chrome.java
  factoryBrowser.Chrome
 factoryBrowser/BrowserStack.java
  factoryBrowser.BrowserStack
+factoryBrowser/FireFox.java
+ factoryBrowser.FireFox
+testClean/LoginTest.java
+ testClean.LoginTest
+pomPages/todoist/PrincipalPage.java
+ pomPages.todoist.PrincipalPage
+pomPages/todoist/MenuProfile.java
+ pomPages.todoist.MenuProfile
 controls/Control.java
  controls.Control
 testClean/TestBaseTodoLy.java
  testClean.TestBaseTodoLy
-factoryBrowser/FactoryBrowser.java
- factoryBrowser.FactoryBrowser
+testClean/TestBaseTodoist.java
+ testClean.TestBaseTodoist
 testClean/CreateProjectTest.java
  testClean.CreateProjectTest
-testClean/LoginTest.java
- testClean.LoginTest
-factoryBrowser/FireFox.java
- factoryBrowser.FireFox
+singletonSession/Session.java
+ singletonSession.Session
+pomPages/todoist/LoginModal.java
+ pomPages.todoist.LoginModal
+testClean/LoginTodoist.java
+ testClean.LoginTodoist
+pomPages/todoist/MainPage.java
+ pomPages.todoist.MainPage

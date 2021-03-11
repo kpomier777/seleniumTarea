@@ -4,12 +4,12 @@ pomPages/hjk.java
  pomPages.hjk
 factoryBrowser/IBrowser.java
  factoryBrowser.IBrowser
-pomPages/todoly/LeftSection.java
- pomPages.todoly.LeftSection
+pomPages/todoist/LoginModal.java
+ pomPages.todoist.LoginModal
 factoryBrowser/Edge.java
  factoryBrowser.Edge
-pomPages/todoly/ProjectOptionsPage.java
- pomPages.todoly.ProjectOptionsPage
+testClean/CreateProjectTest.java
+ testClean.CreateProjectTest
 controls/TextBox.java
  controls.TextBox
 basicSelenium/BasicTest.java
@@ -34,8 +34,8 @@ testClean/CRUD.java
  testClean.CRUD
 controls/Image.java
  controls.Image
-pomPages/todoly/CenterSection.java
- pomPages.todoly.CenterSection
+singletonSession/Session.java
+ singletonSession.Session
 basicSelenium/BasicCreateProjectTest.java
  basicSelenium.BasicCreateProjectTest
 controls/Button.java
@@ -58,13 +58,15 @@ testClean/TestBaseTodoLy.java
  testClean.TestBaseTodoLy
 testClean/TestBaseTodoist.java
  testClean.TestBaseTodoist
-testClean/CreateProjectTest.java
- testClean.CreateProjectTest
-singletonSession/Session.java
- singletonSession.Session
-pomPages/todoist/LoginModal.java
- pomPages.todoist.LoginModal
-testClean/LoginTodoist.java
- testClean.LoginTodoist
+pomPages/todoly/LeftSection.java
+ pomPages.todoly.LeftSection
+pomPages/todoly/CenterSection.java
+ pomPages.todoly.CenterSection
+pomPages/todoly/ProjectOptionsPage.java
+ pomPages.todoly.ProjectOptionsPage
+testClean/ExamenEjercicio2.java
+ testClean.ExamenEjercicio2
+testClean/ExamenEjercicio3y1.java
+ testClean.ExamenEjercicio3y1
 pomPages/todoist/MainPage.java
  pomPages.todoist.MainPage

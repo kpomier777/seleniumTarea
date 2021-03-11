@@ -8,7 +8,7 @@ import pomPages.todoist.MenuProfile;
 import pomPages.todoist.PrincipalPage;
 
 
-public class LoginTodoist extends TestBaseTodoist{
+public class ExamenEjercicio3y1 extends TestBaseTodoist{
     MainPage mainPage= new MainPage();
     LoginModal loginModal= new LoginModal();
     PrincipalPage principalPage= new PrincipalPage();
@@ -20,7 +20,7 @@ public class LoginTodoist extends TestBaseTodoist{
     public void verify_login_todoly() throws InterruptedException {
 
 
-        mainPage.loginImage.dobleClick();
+        mainPage.loginImage.click();
         loginModal.emailTextBox.set(user);
         loginModal.pwdTextBox.set(pwd);
         loginModal.loginButton.click();

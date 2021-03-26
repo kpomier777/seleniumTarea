@@ -1,12 +1,12 @@
 package testClean;
 
-import org.junit.After;
+
 import org.junit.Assert;
 import org.junit.Test;
 import pomPages.todoly.LoginModal;
 import pomPages.todoly.MainPage;
 import pomPages.todoly.MenuSection;
-import singletonSession.Session;
+
 
 
 public class LoginTest extends  TestBaseTodoLy {

@@ -1,7 +1,5 @@
 controls/Label.java
  controls.Label
-testClean/TestBaseTodoist.java
- testClean.TestBaseTodoist
 singletonSession/Session.java
  singletonSession.Session
 factoryBrowser/IBrowser.java
@@ -10,16 +8,14 @@ testClean/LoginTest.java
  testClean.LoginTest
 factoryBrowser/Edge.java
  factoryBrowser.Edge
-testClean/LoginTodoist.java
- testClean.LoginTodoist
+testClean/Examen3.java
+ testClean.Examen3
 factoryBrowser/BrowserStackFireFox.java
  factoryBrowser.BrowserStackFireFox
 pomPages/todoly/ProjectOptionsPage.java
  pomPages.todoly.ProjectOptionsPage
 controls/TextBox.java
  controls.TextBox
-basicSelenium/BasicTest.java
- basicSelenium.BasicTest
 pomPages/todoist/MainPage.java
  pomPages.todoist.MainPage
 pomPages/todoly/LoginModal.java
@@ -28,20 +24,14 @@ pomPages/todoly/MainPage.java
  pomPages.todoly.MainPage
 pomPages/todoly/MenuSection.java
  pomPages.todoly.MenuSection
-basicSelenium/BasicTodoLyTest.java
- basicSelenium.BasicTodoLyTest
 factoryBrowser/FireFox.java
  factoryBrowser.FireFox
-basicSelenium/BasicDeleteProject.java
- basicSelenium.BasicDeleteProject
 controls/CheckBox.java
  controls.CheckBox
 testClean/TestBaseTodoLy.java
  testClean.TestBaseTodoLy
 factoryBrowser/FactoryBrowser.java
  factoryBrowser.FactoryBrowser
-testClean/CreateProjectTest.java
- testClean.CreateProjectTest
 pomPages/todoist/LoginModal.java
  pomPages.todoist.LoginModal
 controls/Image.java
@@ -50,8 +40,6 @@ pomPages/todoly/CenterSection.java
  pomPages.todoly.CenterSection
 pomPages/todoist/PrincipalPage.java
  pomPages.todoist.PrincipalPage
-basicSelenium/BasicCreateProjectTest.java
- basicSelenium.BasicCreateProjectTest
 controls/Button.java
  controls.Button
 pomPages/todoist/MenuProfile.java
@@ -66,5 +54,5 @@ factoryBrowser/BrowserStack.java
  factoryBrowser.BrowserStack
 pomPages/todoly/LeftSection.java
  pomPages.todoly.LeftSection
-testClean/CRUD.java
- testClean.CRUD
+pomPages/todoly/Settingsection.java
+ pomPages.todoly.Settingsection

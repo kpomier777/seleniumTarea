@@ -15,7 +15,7 @@ public class LoginTest extends  TestBaseTodoLy {
     LoginModal loginModal= new LoginModal();
     MenuSection menuSection= new MenuSection();
     String user="kevinpomier.kp@gmail.com";
-    String pwd="kevingay";
+    String pwd="kevin";
 
     @Test
     public void verify_login_todoly(){
